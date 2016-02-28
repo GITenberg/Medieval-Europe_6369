@@ -1,0 +1,29 @@
+_repo: Medieval-Europe_6369
+creator:
+  author:
+    agent_name: Davis, H. W. Carless (Henry William Carless)
+    alias: Davis, Henry William Carless
+    birthdate: 1874
+    deathdate: 1928
+    gutenberg_agent_id: '2019'
+    url: http://www.gutenberg.org/2009/agents/2019
+description: This interesting ebook giving an overview of the history of Europe during
+  Medieval times has been specially formatted for today's e-readers. Written by Henry
+  Davis, it covers subjects such as the papacy, the crusades, and the geo-political
+  situation of European countries. It is an interesting and accurate history, and
+  will appeal to a wide range of readers.
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6369'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Home University Library of Modern Knowledge, No. 13
+subjects:
+- !lcc 'D'
+- !lcsh 'Middle Ages'
+- !lcsh 'Europe -- History -- 476-1492'
+title: Medieval Europe
+url: http://www.gutenberg.org/ebooks/6369
