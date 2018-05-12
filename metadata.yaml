@@ -1,4 +1,8 @@
 _repo: Medieval-Europe_6369
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Davis, H. W. Carless (Henry William Carless)
@@ -12,6 +16,8 @@ description: This interesting ebook giving an overview of the history of Europe 
   Davis, it covers subjects such as the papacy, the crusades, and the geo-political
   situation of European countries. It is an interesting and accurate history, and
   will appeal to a wide range of readers.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6369#Medieval-Europe
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
 identifiers:
